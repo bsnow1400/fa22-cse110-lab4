@@ -32,3 +32,11 @@
    False  
    True    
 15. Strict equality always considers operands of different types to be different  
+16. coding question  
+17. [ 2, 4, 6 ]. This is because all the numbers inside the array are going to put puth through the doSomething method subsequently multiplying all of them by 2  
+18. coding question  
+19. 
+1  
+4  
+3  
+2  
