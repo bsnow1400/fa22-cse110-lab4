@@ -15,3 +15,20 @@ Q12.
   c. student.greeting()  
   d. student['Favorite Teacher'['name']]  
   e. student.courseLoad[0]  
+Q13.  
+* 32
+* 1
+* 3
+* 3null
+* 4
+* 0
+* 3undefined
+* NaN
+Q14. 
+* True
+* False
+* True
+* False
+* False
+* True
+Q15. Strict equality always considers operands of different types to be different
