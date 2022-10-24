@@ -23,12 +23,12 @@
    4
    0
    3undefined
-   NaN
+   NaN  
 14. 
-  a. True
-  b. False
-  c. True
-  d. False
-  e. False
-  f. True
+   True
+   False
+   True
+   False
+   False
+   True  
 15. Strict equality always considers operands of different types to be different  
