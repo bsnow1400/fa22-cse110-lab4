@@ -6,6 +6,6 @@ Q5. The code causes an error because the variable "i" wasnt defined in the loop
 Q6. The code causes an error because the variable "i" wasnt defined in the loop  
 Q7. The code causes an error because the variable "i" wasnt defined in the loop  
 Q8. The code causes an error because the variable "i" wasnt defined in the loop  
-Q9. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned
-Q10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned
-Q11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned
+Q9. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
+Q10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
+Q11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
