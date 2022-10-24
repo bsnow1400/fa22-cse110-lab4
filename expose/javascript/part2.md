@@ -15,7 +15,7 @@
    student.greeting()  
    student['Favorite Teacher'['name']]  
    student.courseLoad[0]  
-13. 
+13.  
    32  
    1  
    3  
@@ -24,7 +24,7 @@
    0  
    3undefined  
    NaN    
-14. 
+14.  
    True  
    False  
    True  
