@@ -10,20 +10,20 @@
 10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 12. 
-  a. student.name  
-  b. student['Grad Year']  
-  c. student.greeting()  
-  d. student['Favorite Teacher'['name']]  
-  e. student.courseLoad[0]  
+   student.name  
+   student['Grad Year']  
+   student.greeting()  
+   student['Favorite Teacher'['name']]  
+   student.courseLoad[0]  
 13. 
-  a. 32
-  b. 1
-  c. 3
-  d. 3null
-  e. 4
-  f. 0
-  g. 3undefined
-  h. NaN
+   32
+   1
+   3
+   3null
+   4
+   0
+   3undefined
+   NaN
 14. 
   a. True
   b. False
