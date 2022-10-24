@@ -16,19 +16,19 @@
    student['Favorite Teacher'['name']]  
    student.courseLoad[0]  
 13. 
-   32
-   1
-   3
-   3null
-   4
-   0
-   3undefined
-   NaN  
+   32  
+   1  
+   3  
+   3null  
+   4  
+   0  
+   3undefined  
+   NaN    
 14. 
-   True
-   False
-   True
-   False
-   False
    True  
+   False  
+   True  
+   False  
+   False  
+   True    
 15. Strict equality always considers operands of different types to be different  
