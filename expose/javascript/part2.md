@@ -9,13 +9,13 @@
 9. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
-12. d
+12. 
   1. student.name  
   2. student['Grad Year']  
   3. student.greeting()  
   4. student['Favorite Teacher'['name']]  
   5. student.courseLoad[0]  
-13. d
+13. 
   1. 32
   2. 1
   3. 3
@@ -24,7 +24,7 @@
   6. 0
   7. 3undefined
   8. NaN
-14. d
+14. 
   1. True
   2. False
   3. True
