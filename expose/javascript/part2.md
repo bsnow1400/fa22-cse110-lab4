@@ -9,3 +9,9 @@ Q8. The code causes an error because the variable "i" wasnt defined in the loop
 Q9. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 Q10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 Q11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
+Q12.  
+  a. student.name  
+  b. student['Grad Year']  
+  c. student.greeting()  
+  d. student['Favorite Teacher'['name']]  
+  e. student.courseLoad[0]  
