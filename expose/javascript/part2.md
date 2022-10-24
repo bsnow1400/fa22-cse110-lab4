@@ -10,25 +10,25 @@
 10. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 11. The code cases an error because the variable "finalPrice" is set as a constant variable and cant be reassigned  
 12. 
-  1. student.name  
-  2. student['Grad Year']  
-  3. student.greeting()  
-  4. student['Favorite Teacher'['name']]  
-  5. student.courseLoad[0]  
+  a. student.name  
+  b. student['Grad Year']  
+  c. student.greeting()  
+  d. student['Favorite Teacher'['name']]  
+  e. student.courseLoad[0]  
 13. 
-  1. 32
-  2. 1
-  3. 3
-  4. 3null
-  5. 4
-  6. 0
-  7. 3undefined
-  8. NaN
+  a. 32
+  b. 1
+  c. 3
+  d. 3null
+  e. 4
+  f. 0
+  g. 3undefined
+  h. NaN
 14. 
-  1. True
-  2. False
-  3. True
-  4. False
-  5. False
-  6. True
+  a. True
+  b. False
+  c. True
+  d. False
+  e. False
+  f. True
 15. Strict equality always considers operands of different types to be different  
