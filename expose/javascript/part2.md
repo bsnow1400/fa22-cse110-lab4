@@ -23,12 +23,12 @@ Q13.
 * 4
 * 0
 * 3undefined
-* NaN
+* NaN  
 Q14. 
 * True
 * False
 * True
 * False
 * False
-* True
-Q15. Strict equality always considers operands of different types to be different
+* True  
+Q15. Strict equality always considers operands of different types to be different  
